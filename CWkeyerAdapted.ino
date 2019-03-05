@@ -1,3 +1,5 @@
+// This sketch can be found at:
+// https://github.com/danielromila/CW-keyer-with-TTGO-Xi-version 
 // The code was written by PA3HCM and adapted by me for TTGO Xi board. 
 // The inspiration webpage is: http://www.pa3hcm.nl/?p=1010
 
