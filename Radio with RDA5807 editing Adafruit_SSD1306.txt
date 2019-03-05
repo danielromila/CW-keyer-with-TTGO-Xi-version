@@ -1,0 +1,20 @@
+// The file Adafruit_SSD1306.h must be edited
+// in order to use the 128 X 64 version of it
+/*=========================================================================
+    SSD1306 Displays
+    -----------------------------------------------------------------------
+    The driver is used in multiple displays (128x64, 128x32, etc.).
+    Select the appropriate display below to create an appropriately
+    sized framebuffer, etc.
+
+    SSD1306_128_64  128x64 pixel display
+
+    SSD1306_128_32  128x32 pixel display
+
+    SSD1306_96_16
+
+    -----------------------------------------------------------------------*/
+   #define SSD1306_128_64
+  // #define SSD1306_128_32
+ // #define SSD1306_96_16
+/*=========================================================================*/
